@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="SmartKart.API\**\*.cs" />
+		<Content Remove="SmartKart.API\**" />
+		<None Remove="SmartKart.API\**" />
+		<EmbeddedResource Remove="SmartKart.API\**" />
+	</ItemGroup>
+  
+
+</Project>

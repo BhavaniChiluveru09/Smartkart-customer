@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Smartkart.UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartKart.API\\SmartKart.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
