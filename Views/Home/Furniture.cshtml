@@ -1,0 +1,103 @@
+﻿@model List<SmartKart.Models.Product>
+
+@{
+    ViewData["Title"] = "Furniture";
+}
+
+<h2 class="mb-4">Furniture Products</h2>
+@if (TempData["CartMessage"] != null)
+{
+    <div id="toastMsg" class="toast-center">
+        @TempData["CartMessage"]
+    </div>
+
+    <script>
+        setTimeout(function () {
+            var msg = document.getElementById("toastMsg");
+            if (msg) {
+                msg.style.opacity = "0";
+            }
+        }, 1200);
+    </script>
+}
+
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+
+                @{
+                    string imagePath = product.Image ?? "";
+
+                    if (!string.IsNullOrEmpty(imagePath) && imagePath.StartsWith("/uploads/"))
+                    {
+                        imagePath = $"http://localhost:5052{imagePath}";
+                    }
+                }
+
+                <a asp-controller="Home"
+                       asp-action="ProductDetails"
+                       asp-route-id="@product.Id">
+
+                    <img src="@imagePath"
+                         class="card-img-top"
+                         alt="@product.Name"
+                         style="height:200px; object-fit:contain; background:white;" />
+
+                </a>
+
+                <div class="card-body">
+                    <h5 class="card-title">
+
+                        <a asp-controller="Home"
+                               asp-action="ProductDetails"
+                               asp-route-id="@product.Id"
+                               class="text-decoration-none text-dark">
+
+                            @product.Name
+
+                        </a>
+
+                    </h5>
+
+                    @* <p class="card-text">@product.Description</p> *@
+                    <p class="card-text">
+                        @((product.Description ?? "").Length > 60
+                            ? product.Description.Substring(0, 60) + "..."
+                            : product.Description)
+                    </p>
+
+                    <p>
+                        <strong>Price:</strong> ₹@product.Price
+                    </p>
+
+                    @if (product.Stock > 0)
+                    {
+                        <span class="badge bg-success">
+                            In Stock: @product.Stock
+                        </span>
+
+                        <br />
+                        <br />
+
+                        <a asp-controller="Home"
+                               asp-action="AddToCart"
+                               asp-route-productId="@product.Id"
+                               class="btn btn-success w-100">
+                            🛒 Add To Cart
+                        </a>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">
+                            Out of Stock
+                        </span>
+                    }
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

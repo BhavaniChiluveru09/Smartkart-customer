@@ -1,0 +1,149 @@
+﻿@model SmartKart.Models.ProductDetailsViewModel
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+
+@* <a href="javascript:history.back();"
+       class="btn btn-outline
+</a> *@
+
+<div class="container mt-5">
+
+    <div class="card shadow-sm p-4">
+
+        <div class="row">
+
+            <!-- Product Image -->
+            @* <div class="col-md-5 text-center">
+
+                @Url.Content(Model.Image)         class="img-fluid"
+                style="max-height:400px; object-fit:contain;" />
+
+            </div> *@
+
+            <div class="col-md-5 text-center">
+                <img src="@Url.Content(Model.Product.Image)"
+                     class="img-fluid"
+                     style="max-height:320px; object-fit:contain;" />
+                </div>
+            
+            
+
+            <!-- Product Info -->
+            <div class="col-md-7">
+
+                <h2 class="fw-bold">@Model.Product.Name</h2>
+
+                <h3 class="text-success mt-3">
+                    ₹@Model.Product.Price
+                </h3>
+
+                <div class="mt-2">
+                    @if (Model.Product.Stock > 0)
+                    {
+                        <span class="badge bg-success">
+                            In Stock (@Model.Product.Stock Available)
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">
+                            Out Of Stock
+                        </span>
+                    }
+                </div>
+
+                <h5 class="mt-4">Description</h5>
+
+                <p>
+                    @Model.Product.Description
+                </p>
+
+                <a asp-controller="Home"
+                       asp-action="AddToCart"
+                       asp-route-productId="@Model.Product.Id"
+                       class="btn btn-success btn-lg mt-3">
+
+                    🛒 Add To Cart
+
+                </a>
+
+            </div>
+
+            @if (Model.RecommendedProducts != null && Model.RecommendedProducts.Any())
+            {
+                <div class="mt-5">
+
+                    @* <h3 class="fw-bold mb-4">
+                        Frequently Bought Together
+                    </h3> *@
+
+                    <h3 class="fw-bold mb-4">
+                        @Model.RecommendationTitle
+                    </h3>
+
+                    <div class="d-flex gap-4 overflow-auto pb-3">
+
+                        @foreach (var item in Model.RecommendedProducts)
+                        {
+                            <div class="card shadow-sm"
+                                 style="min-width:220px; max-width:220px; border-radius:14px;">
+
+                                <a asp-controller="Home"
+                                       asp-action="ProductDetails"
+                                       asp-route-id="@item.Id"
+                                       class="text-decoration-none text-dark">
+
+                                    <div class="text-center p-3"
+                                         style="background:#f8fafc; border-radius:14px 14px 0 0;">
+
+                                        <img src="@Url.Content(item.Image)" 
+                                        style="height:130px; width:100%; object-fit:contain;" />
+                                    </div>
+
+                                    <div class="card-body text-center">
+
+                                        <h6 class="fw-semibold"
+                                            style="min-height:40px;">
+                                            @item.Name
+                                        </h6>
+
+                                        <p class="text-success fw-bold mb-2">
+                                            ₹@item.Price
+                                        </p>
+
+                                    </div>
+                                </a>
+
+                                <div class="px-3 pb-3">
+                                    @if (item.Stock > 0)
+                                    {
+                                        <a asp-controller="Home"
+                                               asp-action="AddToCart"
+                                               asp-route-productId="@item.Id"
+                                               class="btn btn-primary btn-sm w-100">
+                                            Add to Cart
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <button class="btn btn-secondary btn-sm w-100" disabled>
+                                            Out of Stock
+                                        </button>
+                                    }
+                                </div>
+
+                            </div>
+                        }
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>

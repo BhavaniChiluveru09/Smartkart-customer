@@ -1,0 +1,47 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+
+        <link rel="stylesheet" href="~/css/auth.css" />
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>Create Account</h2>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">
+                @ViewBag.Error
+            </div>
+        }
+
+        
+        <form method="post" asp-action="Register">
+
+            <input type="text" name="Name" placeholder="Enter your name" />
+            <input type="email" name="Email" placeholder="Enter email" />
+            <input type="tel" name="Phone" placeholder="Enter phone number" />
+            <input type="password" name="Password" placeholder="Enter password" />
+
+            <button class="btn">Register</button>
+
+        </form>
+
+        
+      
+
+
+        
+
+    </div>
+
+</body>
+</html>

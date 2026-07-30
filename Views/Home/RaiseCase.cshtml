@@ -1,0 +1,97 @@
+﻿@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+<form method="post" asp-action="RaiseCase">
+
+    <label>Case Type</label>
+    <select name="caseType" class="form-control">
+        <option value="">-- Select Case Type --</option>
+        <option value="Return">Return</option>
+        <option value="Exchange">Exchange</option>
+        <option value="Complaint">Complaint</option>
+        <option value="Query">Query</option>
+    </select>
+
+    <label>Order ID</label>
+    <div class="dropdown-container">
+        <input type="text" id="orderSearch" class="form-control"
+               placeholder="-- Select Order ID --" readonly onclick="toggleDropdown()" />
+
+        <div id="orderDropdown" class="dropdown-list">
+            @foreach (var id in ViewBag.OrderIds)
+            {
+                <div class="dropdown-item" onclick="selectOrder('@id')">
+                    @id
+                </div>
+            }
+        </div>
+
+        <input type="hidden" name="orderId" id="orderId" />
+    </div>
+
+    <label>Description / Reason</label>
+    <textarea name="description" class="form-control" rows="4"
+              placeholder="Enter reason for return/refund/complaint/query"></textarea>
+
+    <button type="submit" class="btn btn-primary w-100 mt-3">Submit Case</button>
+
+</form>
+
+@* //Custom DropDown list *@
+
+<style>
+    .dropdown-container {
+        position: relative;
+    }
+
+    .dropdown-list {
+        display: none;
+        position: absolute;
+        width: 100%;
+        max-height: 200px;
+        overflow-y: auto;
+        background: white;
+        border: 1px solid #ccc;
+        z-index: 1000;
+    }
+
+    .dropdown-item {
+        padding: 10px;
+        cursor: pointer;
+    }
+
+        .dropdown-item:hover {
+            background: #f1f1f1;
+        }
+</style>
+
+<script>
+    function toggleDropdown() {
+        var dropdown = document.getElementById("orderDropdown");
+        dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
+    }
+
+    function selectOrder(value) {
+        document.getElementById("orderSearch").value = value;
+        document.getElementById("orderId").value = value;
+        document.getElementById("orderDropdown").style.display = "none";
+    }
+
+    // click outside close
+    document.addEventListener("click", function (event) {
+        if (!event.target.closest(".dropdown-container")) {
+            document.getElementById("orderDropdown").style.display = "none";
+        }
+    });
+</script>

@@ -1,0 +1,271 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SmartKart</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <header>
+        <!-- Top Header -->
+        <nav class="navbar px-4 py-2" style="background-color:#F3F9FC; position: relative; z-index: 1000;">
+
+            <!-- Logo -->
+            @* <a class="navbar-brand fw-bold"                              change
+                 asp-controller="Home" asp-action="Index">
+                <img src="~/images/logo2.png" style="height:60px;" />
+            </a> *@
+
+
+            <a class="navbar-brand d-flex align-items-center fw-bold"
+               asp-controller="Home" asp-action="Index">
+
+                <img src="~/images/logo2.png"
+                     style="height:42px; margin-right:8px;" />
+
+                <span style="font-size:20px; letter-spacing:0.5px;">
+                    SmartKart
+                </span>
+
+            </a>
+
+            
+
+            <!-- Search -->
+
+            <form asp-controller="Home" asp-action="Search" method="get"
+                  style="flex:1; max-width:550px; margin: 0 30px; position:relative;">
+
+                <input name="query"
+                       type="search"
+                       placeholder="Search products..."
+                       class="form-control"
+                       style="border-radius:10px;
+                height:42px;
+                padding-right:40px;" />
+
+                
+                <span style="position:absolute;
+                    right:12px;
+                    top:50%;
+                    transform:translateY(-50%);
+                    color:#94a3b8;
+                    font-size:14px;">
+                    &#128269;
+                </span>
+
+
+            </form>
+
+            @inject SmartKart.Data.AppDbContext _context
+
+            @{
+                var email = Context.Session.GetString("UserEmail");
+                string userName = "";
+
+                if (!string.IsNullOrEmpty(email))
+                {
+                    var user = _context.Customers
+                        .FirstOrDefault(u => u.Email == email);
+
+                    if (user != null)
+                    {
+                        userName = user.Name;
+                    }
+                }
+
+
+                int cartCount = 0;
+
+                if (!string.IsNullOrEmpty(email))
+                {
+                    cartCount = _context.Cart
+                        .Where(c => c.UserEmail == email)
+                        .Sum(c => c.Quantity);
+                }
+            }
+
+            <!-- User Menu -->
+            <div class="navbar-icons">
+
+                <a asp-controller="Home"
+                   asp-action="AIAssistant"
+                   class="btn btn-primary me-2">
+                    🤖 AI Assistant 
+                </a>
+
+                <a href="#">
+                    <i class="fa fa-user"></i>
+                </a>
+
+                <a href="#">
+                    <i class="fa fa-shopping-cart"></i>
+                </a>
+
+            </div>
+            <div class="d-flex align-items-center gap-3">
+                @if (string.IsNullOrEmpty(email))
+                {
+                    <a asp-controller="Home" asp-action="Login"
+                           class="btn btn-sm btn-outline-dark">
+                        Login
+                    </a>
+                }
+
+                @* <a asp-controller="Home" asp-action="Register"
+                   class="btn btn-sm btn-primary">
+                    Register
+                </a> *@
+
+                @if (!string.IsNullOrEmpty(userName))
+                {
+                    <span class="fw-semibold text-dark">
+                        Welcome, @userName 👋
+                    </span>
+                }
+
+                <div class="dropdown me-3">
+                    <a class="nav-icon dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                        👤
+                    </a>
+
+                    <ul class="dropdown-menu dropdown-menu-end">
+                        <li>
+                            <a class="dropdown-item" asp-controller="Home" asp-action="Profile">
+                                My Profile
+                            </a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" asp-controller="Home" asp-action="Orders">
+                                My Orders
+                            </a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <a class="dropdown-item text-danger" asp-controller="Home" asp-action="Logout">
+                                Logout
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+               
+
+
+                
+
+                <a asp-controller="Home" asp-action="Cart" class="nav-icon position-relative">
+                    🛒
+                    <span class="cart-badge">@cartCount</span>
+                </a>
+
+
+
+
+
+                @* <a asp-controller="Home" asp-action="Cart" class="text-dark">
+                    🛒 Cart (@(ViewBag.CartCount ?? 0))
+                </a> *@
+ 
+
+
+
+            </div>
+
+        </nav>
+
+        <!-- Category Navbar -->
+        <nav class="navbar navbar-expand-lg bg-white px-4 py-2"
+             style="backdrop-filter: blur(10px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            border-radius: 12px;
+            margin: 10px;">
+            <div class="container-fluid">
+                <ul class="navbar-nav mx-auto gap-4">
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Sports">Sports & Equipment</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Accessories">Accessories</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Furniture">Furniture</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Books">Books</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Stationery">Stationery</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Electronics">Electronics</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <div class="container-fluid px-4 mt-4">
+        @RenderBody()
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="bg-dark text-white mt-5 py-4">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <h5>SmartKart</h5>
+                    <p>Your One-Stop Shopping Destination</p>
+                </div>
+
+                <div class="col-md-4">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+
+                        <li><a asp-controller="Home" asp-action="Sports" class="text-white">Sports</a></li>
+                        <li><a asp-controller="Home" asp-action="Books" class="text-white">Books</a></li>
+                        <li><a asp-controller="Home" asp-action="Furniture" class="text-white">Furniture</a></li>
+                        <li><a asp-controller="Home" asp-action="Accessories" class="text-white">Accessories</a></li>
+                        <li><a asp-controller="Home" asp-action="Stationery" class="text-white">Stationery</a></li>
+                        <li><a asp-controller="Home" asp-action="Electronics" class="text-white">Electronics</a></li>
+
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    <h5>Contact Us</h5>
+                    <p>📧 support@smartkart.com</p>
+                    <p>📞 +91 9xxxxxxxxx</p>
+                </div>
+
+            </div>
+
+            <hr />
+
+            <div class="text-center">
+                © 2026 SmartKart. All Rights Reserved.
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

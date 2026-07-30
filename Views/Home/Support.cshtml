@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Support";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Customer Support</h2>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card shadow-sm p-4 text-center h-100">
+                <h4>Raise Case</h4>
+                <p>Need help with return, refund, complaint, or order/product query?</p>
+                <a class="btn btn-primary" asp-controller="Home" asp-action="RaiseCase">Raise Case</a>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card shadow-sm p-4 text-center h-100">
+                <h4>My Cases</h4>
+                <p>Track the status of the cases you have already raised.</p>
+                <a class="btn btn-success" asp-controller="Home" asp-action="MyCases">My Cases</a>
+            </div>
+        </div>
+    </div>
+</div>
