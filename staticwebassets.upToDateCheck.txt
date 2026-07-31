@@ -1,0 +1,190 @@
+wwwroot\css\auth.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\Images\Accessories\Anti Tarnish Gold Plated Tulip Bracelet.png
+wwwroot\Images\Accessories\Baseball Cap For Men.png
+wwwroot\Images\Accessories\Bellavita Perfume.png
+wwwroot\Images\Accessories\Cerrito Hair Claw Clips for Women.png
+wwwroot\Images\Accessories\Fuelbyte UV Protection Hand Gloves.png
+wwwroot\Images\Accessories\HYUE HydraMatte Liquid Lipstick.png
+wwwroot\Images\Accessories\Miraggio Bella Colorblocked Shoulder bag.png
+wwwroot\Images\Accessories\Noise Twist Go Watch.png
+wwwroot\Images\Accessories\Rigohill Doger Olive Green Leather Wallet for Men.png
+wwwroot\Images\Accessories\Sheomy Hexagon Glasses Silver Frame.png
+wwwroot\Images\Accessories_banner.png
+wwwroot\Images\booksbanner.png
+wwwroot\Images\Books\Girl.jpg
+wwwroot\Images\Books\Never_Lie.jpg
+wwwroot\Images\Books\Not_Quiet_dead_yet.jpg
+wwwroot\Images\Books\Palace_of_illusions.jpg
+wwwroot\Images\Books\The Art of Spending Money.jpg
+wwwroot\Images\Books\The God of Small Things.jpg
+wwwroot\Images\Books\The_Alchemist.jpg
+wwwroot\Images\Books\The_Housemaid.jpg
+wwwroot\Images\DesignerC.png
+wwwroot\Images\Electronics\Goodscity Multipurpose Electric Kettle.png
+wwwroot\Images\Electronics\Lifelong Electronics Fast Charging Power Bank.png
+wwwroot\Images\Electronics\Orient Electric Classic Pro Geyser.png
+wwwroot\Images\Electronics\PHILIPS Air Fryer with touch Panel.png
+wwwroot\Images\Electronics\Portonics Apollo Wireless Bluetooth Portable Speaker.png
+wwwroot\Images\Electronics\USHA Armor 1100 watts Dry Iron.png
+wwwroot\Images\Electronics\VANTRO Espresso Coffee Machine.png
+wwwroot\Images\Electronics\Vega Iconic 3 In 1 Hair Styler for Women.png
+wwwroot\Images\Electronics\xiani Mini Portable Blender.png
+wwwroot\Images\Electronics\Xiaomi_Mouse.png
+wwwroot\Images\Electronics_banner.png
+wwwroot\Images\furniturebanner.png
+wwwroot\Images\Furniture\4 Tier Shoe Rack with Shelf.png
+wwwroot\Images\Furniture\Adorn India Premium Luster 4 Seater L Shape Sofa Set.jpg
+wwwroot\Images\Furniture\Amazon Basics Plastic Multipurpose Wall-Mounted Storage Cabinet with Mirror Small (Ivory).jpg
+wwwroot\Images\Furniture\BOXJOY 12 Shelf Cloth Rack Wardrobe Almirah Organizer.jpg
+wwwroot\Images\Furniture\Candel1.png
+wwwroot\Images\Furniture\FIG Living Cloud Pendant Lamp (Off-White).png
+wwwroot\Images\Furniture\FURNEASER Allesia Modern Zig-Zag Wooden Bookshelf.png
+wwwroot\Images\Furniture\Klaxon Computer Desk for Home Office with Keyboard Tray and Monitor Stand.jpg
+wwwroot\Images\Furniture\Maison Cloud Round Storage Ottoman.png
+wwwroot\Images\Furniture\RK Deck Wooden Round Dining Table Set of 4.jpg
+wwwroot\Images\Furniture\SquareUp Aluminium Pack of 2 Self Adhesive Bathroom Shelf for Wall Shelf Organizer Wall Mounted.jpg
+wwwroot\Images\logo2.png
+wwwroot\Images\sportsandequipment.png
+wwwroot\Images\Sports\Badminton.png
+wwwroot\Images\Sports\FitBox Sports Push-Up Bars Stand Non-Slip Handles.png
+wwwroot\Images\Sports\Football.png
+wwwroot\Images\Sports\Lifelong Dual Color TPE Material Yoga Mat for Women & Men.png
+wwwroot\Images\Sports\Protoner Training Cones Set of 12 with carry bag.png
+wwwroot\Images\Sports\PVC Dumbbells.png
+wwwroot\Images\Sports\Roughhouse Adjustable Sit-Up Bar for Home Workouts .png
+wwwroot\Images\Sports\Screenshot 2026-06-18 224840.png
+wwwroot\Images\Sports\Skipping Rope.png
+wwwroot\Images\Sports\Sports Equipment Organizer.png
+wwwroot\Images\Stationery\Homexa Desk Organizer.png
+wwwroot\Images\Stationery\Kawaii Cute Pencil Case.png
+wwwroot\Images\Stationery\Pentonic Multi-Color Glitter Gel Pen.png
+wwwroot\Images\Stationery\Solimo Notebooks-Spiral Bound.png
+wwwroot\Images\Stationery\Xech Pen Stand With Night Light.png
+wwwroot\Images\Stationery_banner.png
+wwwroot\Images\Welcome.png
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\js\site.js
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\favicon.ico
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\css\site.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\wwwroot\css\auth.css

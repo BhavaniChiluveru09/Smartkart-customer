@@ -1,0 +1,426 @@
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\appsettings.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.staticwebassets.runtime.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.staticwebassets.endpoints.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.exe
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.deps.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.runtimeconfig.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\SmartKart.pdb
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Humanizer.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Npgsql.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.AssemblyReference.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.AssemblyInfoInputs.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.AssemblyInfo.cs
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.CoreCompileInputs.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.RazorAssemblyInfo.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.RazorAssemblyInfo.cs
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.sourcelink.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\scopedcss\bundle\SmartKart.styles.css
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\scopedcss\projectbundle\SmartKart.bundle.scp.css
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\s6np777sbq-{0}-hw67lqr9my-hw67lqr9my.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\4l928m4okl-{0}-7tv2lb5vlt-7tv2lb5vlt.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\w20qgpv83t-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\k5ljk0vfua-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\1u12e7vqj6-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\62gtocgfim-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\z4l49x3gaq-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\8tj6x0n1b2-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\066u2a2sj0-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\86yzlg5p86-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\h5cz1bhx8q-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\5qh7cfave9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\32e2pkwzfm-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\223eat8yc6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\bw069ifvve-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\oz0mylpz81-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\qtb847sneb-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\qwa6czm5y4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\qxgbx9k5mn-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\qbwqo26evr-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\v4hdy6jnh6-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\xhycj86hy4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\gflzla83b0-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\069cyalce4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\2e1n09xw11-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\9il8f86vsp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\y8383k9rcr-{0}-keugtjm085-keugtjm085.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\kawf8iqny9-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\ho3h2o49i9-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\kfp7w0zqb3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\hsyngohhku-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\bqw37v1hng-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\j8eymnyjdy-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\nudwnzeifp-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\g2tqht939g-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\jzyqxxivts-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\36mb80qwnc-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\rqchgviepj-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\zfhkfir2vy-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\fhbug9st0j-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\863dvaqmto-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\lsrkbjarf9-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\yscdcjhgnl-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\159eby9eua-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\wgzmbxzaq8-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\mre6qfcpkm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\9wfi5zxwf3-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\wrmbn72f2g-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\bjbwvgiv4o-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\1r83cqt3k2-{0}-48y08845bh-48y08845bh.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\ctygjs5u05-{0}-356vix0kms-356vix0kms.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\djqdxtsu2c-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\e9oldwz5m9-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\fegvfkq8qg-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\dhtipbyxx1-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\n5eydb03kw-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\l0lbp0jgoi-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\24hwu9ewme-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\3lqxchut7j-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\582ns2ewz4-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\podvpdt6r6-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\mygt2qhh3f-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\zc62tw7cja-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\z4yb4zdqh0-{0}-ls90jdon0s-ls90jdon0s.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\compressed\kwbkza4axc-{0}-ls90jdon0s-ls90jdon0s.gz
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.Up2Date
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\refint\SmartKart.dll
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.pdb
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\SmartKart.genruntimeconfig.cache
+C:\Users\chiluveru.bhavani\source\repos\SmartKit_customer\obj\Debug\net10.0\ref\SmartKart.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\appsettings.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.staticwebassets.runtime.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.staticwebassets.endpoints.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.exe
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.deps.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.runtimeconfig.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\SmartKart.pdb
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Humanizer.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\MimeMapping.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Npgsql.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Core.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Functions.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Gotrue.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Postgrest.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Realtime.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Supabase.Storage.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\System.Reactive.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\Websocket.Client.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.AssemblyReference.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.AssemblyInfoInputs.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.AssemblyInfo.cs
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.CoreCompileInputs.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.RazorAssemblyInfo.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.RazorAssemblyInfo.cs
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.sourcelink.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\scopedcss\bundle\SmartKart.styles.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\scopedcss\projectbundle\SmartKart.bundle.scp.css
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\s6np777sbq-{0}-hw67lqr9my-hw67lqr9my.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\4l928m4okl-{0}-7tv2lb5vlt-7tv2lb5vlt.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\w20qgpv83t-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\k5ljk0vfua-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\1u12e7vqj6-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\62gtocgfim-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\z4l49x3gaq-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\8tj6x0n1b2-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\066u2a2sj0-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\86yzlg5p86-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\h5cz1bhx8q-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\5qh7cfave9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\32e2pkwzfm-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\223eat8yc6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\bw069ifvve-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\oz0mylpz81-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\qtb847sneb-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\qwa6czm5y4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\qxgbx9k5mn-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\qbwqo26evr-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\v4hdy6jnh6-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\xhycj86hy4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\gflzla83b0-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\069cyalce4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\2e1n09xw11-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\9il8f86vsp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\y8383k9rcr-{0}-keugtjm085-keugtjm085.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\kawf8iqny9-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\ho3h2o49i9-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\kfp7w0zqb3-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\hsyngohhku-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\bqw37v1hng-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\j8eymnyjdy-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\nudwnzeifp-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\g2tqht939g-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\jzyqxxivts-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\36mb80qwnc-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\rqchgviepj-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\zfhkfir2vy-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\fhbug9st0j-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\863dvaqmto-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\lsrkbjarf9-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\yscdcjhgnl-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\159eby9eua-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\wgzmbxzaq8-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\mre6qfcpkm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\9wfi5zxwf3-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\wrmbn72f2g-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\bjbwvgiv4o-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\1r83cqt3k2-{0}-48y08845bh-48y08845bh.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\ctygjs5u05-{0}-356vix0kms-356vix0kms.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\djqdxtsu2c-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\e9oldwz5m9-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\fegvfkq8qg-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\dhtipbyxx1-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\n5eydb03kw-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\l0lbp0jgoi-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\24hwu9ewme-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\3lqxchut7j-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\582ns2ewz4-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\podvpdt6r6-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\mygt2qhh3f-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\zc62tw7cja-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\z4yb4zdqh0-{0}-ls90jdon0s-ls90jdon0s.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\compressed\kwbkza4axc-{0}-ls90jdon0s-ls90jdon0s.gz
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.csproj.Up2Date
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\refint\SmartKart.dll
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.pdb
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\SmartKart.genruntimeconfig.cache
+C:\Users\greeshma.boda\OneDrive - Accenture\Desktop\pp\SmartKit_customer\obj\Debug\net10.0\ref\SmartKart.dll
